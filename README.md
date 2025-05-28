@@ -38,6 +38,9 @@ The tool can act as a client, sending data from standard input to a target host 
 
 ## Usage Examples
 
+To display the help menu and available options, run:
+`python3 Netcat_alike_tool.py`
+
 * **Listen with a command shell:**
     `python Netcat_alike_tool.py -t 192.168.0.1 -p 5555 -l -c`
 
