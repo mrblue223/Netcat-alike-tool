@@ -15,7 +15,7 @@ A Python-based Netcat clone for versatile network communication. This tool facil
 
 ## Disclaimer
 
-**This tool is intended for educational purposes and legitimate network administration tasks only. Unauthorized use of this tool for illegal activities, such as unauthorized access to computer systems, is strictly prohibited and may result in severe legal consequences. Users are solely responsible for ensuring their actions comply with all applicable laws and regulations.**
+<p style="color:red;">**This tool is intended for educational purposes and legitimate network administration tasks only. Unauthorized use of this tool for illegal activities, such as unauthorized access to computer systems, is strictly prohibited and may result in severe legal consequences. Users are solely responsible for ensuring their actions comply with all applicable laws and regulations.**</p>
 
 ## Features
 
