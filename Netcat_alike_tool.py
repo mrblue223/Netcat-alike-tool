@@ -16,7 +16,7 @@ port = 0
 def usage():
     print("Netcat_alike_tool")
     print()
-    print("   ／l、?    ") ## Yes cats are awsome!
+    print("   ／l、?    ") ## Yes cats are Awsome!
     print(" （ﾟ､ ｡ ７    ")
     print("  |,‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎~ヽ   ")
     print("  じしf_, )ノ ") 
