@@ -1,5 +1,5 @@
 # Netcat-alike-tool
-
+![Cute ASCII Cat]()
 A Python-based Netcat clone for versatile network communication. This tool facilitates network debugging, port scanning, and simple data transfer over TCP/UDP, mimicking Netcat's essential command-line functionality.
 
 ## Table of Contents
