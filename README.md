@@ -1,5 +1,10 @@
 # Netcat-alike-tool
 
+⠀ ／l、?
+（ﾟ､ ｡ ７
+⠀ l,‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎~ヽ
+  じしf_, )ノ 
+
 A Python-based Netcat clone for versatile network communication. This tool facilitates network debugging, port scanning, and simple data transfer over TCP/UDP, mimicking Netcat's essential command-line functionality.
 
 ## Table of Contents
