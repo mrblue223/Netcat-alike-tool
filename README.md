@@ -4,6 +4,7 @@ A Python-based Netcat clone for versatile network communication. This tool facil
 
 ## Table of Contents
 
+* [Disclaimer](#disclaimer)
 * [Features](#features)
     * [Listening Mode](#listening-mode)
     * [Command Execution](#command-execution)
@@ -11,6 +12,10 @@ A Python-based Netcat clone for versatile network communication. This tool facil
     * [File Upload](#file-upload)
     * [Client Sender Mode](#client-sender-mode)
 * [Usage Examples](#usage-examples)
+
+## Disclaimer
+
+**This tool is intended for educational purposes and legitimate network administration tasks only. Unauthorized use of this tool for illegal activities, such as unauthorized access to computer systems, is strictly prohibited and may result in severe legal consequences. Users are solely responsible for ensuring their actions comply with all applicable laws and regulations.**
 
 ## Features
 
