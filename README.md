@@ -3,7 +3,7 @@
 ⠀<pre>
    ／l、
  （ﾟ､ ｡ ７
-⠀ l,‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎~ヽ
+⠀ l,‏‏‎ ‎‏‏‎ ‎‏‏‎~ヽ
   じしf_, )ノ
  </pre>
 A Python-based Netcat clone for versatile network communication. This tool facilitates network debugging, port scanning, and simple data transfer over TCP/UDP, mimicking Netcat's essential command-line functionality.
