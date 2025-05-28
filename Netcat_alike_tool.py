@@ -15,7 +15,12 @@ port = 0
 
 def usage():
     print("Netcat_alike_tool")
-    print()
+    print("       <3     ")                            
+    print("  ╱|、        ")
+    print(" (˚ˎ 。7      ")
+    print(" |、˜〵        ") 
+    print(" じしˍ,)ノ     ")
+    print("")
     print("Usage: netcat.py -t target_host -p port")
     print("-l --listen                     - listen on [host]:[port] for")
     print("                                   incoming connection")
